@@ -31,7 +31,7 @@ read num1
 echo "Enter second number:"
 read num2
 res=$((num1*num2))
-echo "Sum:$res"
+echo "Product:$res"
 ;;
 4)
 echo "Enter first number:"
